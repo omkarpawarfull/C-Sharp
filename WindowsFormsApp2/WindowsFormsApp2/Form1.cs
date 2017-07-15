@@ -24,8 +24,6 @@ namespace WindowsFormsApp2
 			label12.Text = textBox2.Text;
 			label13.Text = textBox3.Text;
 			label14.Text = comboBox1.Text;
-			comboBox1.Items.Add(Text="Mumbai");
-			comboBox1.Items.Add(Text="Banglore");
 			label15.Text = textBox4.Text;
 		}
 
