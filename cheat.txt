@@ -1,0 +1,8 @@
+>>COnvert from String to Int:
+exam1 = Convert.ToInt32(textBox2.Text);
+
+>>Adding items to ListBox:
+listBox1.Items.Add(textBox1.Text);
+
+>>Clear TextBox:
+textBox1.Clear();
